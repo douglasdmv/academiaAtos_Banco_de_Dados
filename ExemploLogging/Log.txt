@@ -1,0 +1,138 @@
+out. 10, 2022 7:32:48 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:32:48 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:32:48 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:33:00 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:33:00 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:33:00 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:33:16 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:33:16 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:33:16 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:33:37 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:33:37 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:33:37 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:33:48 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:33:48 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:33:48 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:34:22 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:34:22 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:34:22 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:34:29 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:34:29 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:34:29 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:35:17 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:35:17 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:35:17 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:35:29 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:35:29 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:35:29 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:35:32 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:35:32 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:35:32 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:38:30 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:38:30 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:38:30 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:38:53 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:38:53 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:38:53 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:38:55 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:38:55 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:38:55 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:41:57 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:41:57 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:41:57 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:43:08 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:43:08 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:43:08 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:45:01 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:45:01 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:45:01 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:45:07 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:45:07 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:45:07 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:45:10 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:45:10 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:45:10 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:45:15 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:45:15 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:45:15 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:45:16 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:45:16 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:45:16 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:45:38 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:45:38 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:45:38 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 7:45:43 PM Principal main
+INFO: Log de Informação
+out. 10, 2022 7:45:43 PM Principal main
+WARNING: Log de Aviso
+out. 10, 2022 7:45:43 PM Principal main
+SEVERE: Log Severo
+out. 10, 2022 8:02:50 PM br.com.loggin.Principal main
+INFO: Log de Informação
+out. 10, 2022 8:02:50 PM br.com.loggin.Principal main
+WARNING: Log de Aviso
+out. 10, 2022 8:02:50 PM br.com.loggin.Principal main
+SEVERE: Log Severo
